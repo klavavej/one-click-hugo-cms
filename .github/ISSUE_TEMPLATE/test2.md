@@ -1,7 +1,7 @@
 ---
 name: 22222
 about: 333333
-labels: "site enhancement", bug
+labels: site enhancement, bug
 ---
 
 **another**
