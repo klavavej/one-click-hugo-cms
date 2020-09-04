@@ -1,7 +1,7 @@
 ---
 name: test
 about: testing
-labels: site enhancement
+labels: bug
 ---
 
 **- Do you want to request a *feature* or report a *bug*?**
